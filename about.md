@@ -26,9 +26,14 @@ show_title: false
   # @end locale config
 key: page-about
 ---
-
-# Idealist Matthew
+<h1> Idealist Matthew <h1>
 
 <p align = "center">
 <img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
+</p>
+
+<h2> Background <h2>
+
+<p>
+I am a recent graduate from Kolej Yayasan UEM, Malaysia and is a current Cambridge Engineering Offer Holder. I am very interested in aerospace engineering and also the theoretical Sciences. My hobbies include doing extra learning on MITOpenCourseWare and strategic board games such as "Agricola" and "Istanbul".
 </p>
