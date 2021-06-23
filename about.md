@@ -32,5 +32,6 @@ key: page-about
 
 
 <p align = "center">
-<img src = "https://github.com/Idealistmatthew/idealistmatthew.github.io/blob/master/assets/images/aboutmepic.JPG" style = "width: 200px; height: 200px">
+<img class = "image image--md" src = "https://github.com/Idealistmatthew/idealistmatthew.github.io/blob/master/assets/images/aboutmepic.JPG">
+
 </p>
