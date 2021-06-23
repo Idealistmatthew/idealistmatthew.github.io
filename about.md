@@ -26,12 +26,9 @@ titles:
 key: page-about
 ---
 
-# About me
-
-## Matthew Anderson Hendricks
+# Matthew Anderson Hendricks
 
 
 <p align = "center">
-<img class = "image image--md" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
-
+<img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
 </p>
