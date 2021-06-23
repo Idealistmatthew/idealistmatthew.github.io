@@ -26,7 +26,7 @@ titles: About
 key: page-about
 ---
 
-#
+# Idealist Matthew
 
 <p align = "center">
 <img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
