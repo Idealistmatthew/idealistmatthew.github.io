@@ -1,6 +1,6 @@
 ---
 layout: article
-titles:
+titles: About
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
@@ -26,6 +26,7 @@ titles:
 key: page-about
 ---
 
+#
 
 <p align = "center">
 <img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
