@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-# Matthew Anderson Hendricks
+## Matthew Anderson Hendricks
 
 
 <p align = "center">
