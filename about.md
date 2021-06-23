@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: About
+titles: Page - Single
 show_title: false
   # @start locale config
   en      : &EN       About
