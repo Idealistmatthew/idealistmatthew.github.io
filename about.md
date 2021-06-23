@@ -32,6 +32,6 @@ key: page-about
 
 
 <p align = "center">
-<img src = "C:\Users\USER\Sites\idealistmatthew.github.io\assets\images" >
+<img src = "C:\Users\USER\Sites\idealistmatthew.github.io\assets\images\aboutmepic.jpg" >
 
 </p>
