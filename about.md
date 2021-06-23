@@ -29,3 +29,9 @@ key: page-about
 # About me
 
 ## Matthew Anderson Hendricks
+
+
+<p align = "center">
+<img src = "C:\Users\USER\Sites\idealistmatthew.github.io\assets\images" >
+
+</p>
