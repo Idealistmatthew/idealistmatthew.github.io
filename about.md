@@ -37,3 +37,18 @@ key: page-about
 <p>
 I am a recent graduate from Kolej Yayasan UEM, Malaysia and is a current Cambridge Engineering Offer Holder. I am very interested in aerospace engineering and also the theoretical Sciences. My hobbies include doing extra learning on MITOpenCourseWare and strategic board games such as "Agricola" and "Istanbul".
 </p>
+
+<div class = "newsletter-container">
+  <h4 class = "newsletter-title">Idealist Matthew's Newsletter</h4>
+
+  <form style="border:1px solid #ccc;padding:3px;text-align:center;"
+  action="https://feedburner.google.com/fb/a/mailverify"
+  method="post" target="popupwindow"
+  onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=idealistmatthewswebsite', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+    <p class = "newsletter-text">Enter your email address to subscribe  :</p>
+    <p><input class="newsletter-email" type="text" name="email" placeholder="name@example.com"/>
+    </p><input type="hidden" value="idealistmatthewswebsite" name="uri"/>
+    <input type="hidden" name="loc" value="en_US"/>
+    <input class ="newsletter-submit" type="submit" value="Subscribe" />
+  </form>
+</div>
