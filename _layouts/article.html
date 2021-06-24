@@ -28,4 +28,17 @@ type: article
   {%- include scripts/article.js -%}
 </script>
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=idealistmatthewswebsite', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="idealistmatthewswebsite" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="https://feedburner.google.com" target="_blank">FeedBurner</a></p></form>
+<div class = "newsletter-container">
+  <h4 class = "newsletter-title">Idealist Matthew's Newsletter</h4>
+
+  <form style="border:1px solid #ccc;padding:3px;text-align:center;"
+  action="https://feedburner.google.com/fb/a/mailverify"
+  method="post" target="popupwindow"
+  onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=idealistmatthewswebsite', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+    <p class = "newsletter-text">Enter your email address to subscribe  :</p>
+    <p><input class="newsletter-email" type="text" name="email" placeholder="name@example.com"/>
+    </p><input type="hidden" value="idealistmatthewswebsite" name="uri"/>
+    <input type="hidden" name="loc" value="en_US"/>
+    <input class ="newsletter-submit" type="submit" value="Subscribe" />
+  </form>
+</div>
