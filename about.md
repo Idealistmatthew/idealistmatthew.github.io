@@ -32,11 +32,33 @@ key: page-about
 <img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
 </p>
 
-<h2> Background </h2>
+<h3> Background </h3>
 
 <p>
-I am a recent graduate from Kolej Yayasan UEM, Malaysia and is a current Cambridge Engineering Offer Holder. I am very interested in aerospace engineering and also the theoretical Sciences. My hobbies include doing extra learning on MITOpenCourseWare and strategic board games such as "Agricola" and "Istanbul".
+I am a recent graduate from Kolej Yayasan UEM, Malaysia and a current Cambridge Engineering Offer Holder. I am very interested in aerospace engineering and learning about the theoretical Sciences. My hobbies include doing extra learning on my varied interests on MITOpenCourseWare and playing strategic board games such as "Agricola" and "Istanbul".
 </p>
+
+<h3> Experiences </h3>
+
+* Secondary School Student at SMJK Tinggi Cina Melaka
+  * Valedictorian
+  * Head Prefect
+  * Cadet leader and Division head in St John Ambulance Malaysia
+  * Vice President of English Society
+  * SPM 9A+2A
+
+* Tuition Teaching
+  * Part time tuition teacher at Brainergy Sdn Bhd
+  * Self Employed part time tuition teacher to secondary school students in STEM subjects
+
+* A Levels Student at Kolej Yayasan UEM
+  * Academic Exco of Student Council
+  * President of Science and Maths Society
+  * Secretary of Christian Fellowship
+  * High Committee of main college events such as Induction Week and Cultural Performance Night
+
+
+
 
 <div class = "newsletter-container">
   <h4 class = "newsletter-title">Idealist Matthew's Newsletter</h4>
