@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Idealist Matthew
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG
   bio       : To be the turning point in the lives of all the people I meet. To inspire, to live and to love.
   email     :
   facebook  : matthewanderson.hendricks # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
