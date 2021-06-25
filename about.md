@@ -40,24 +40,35 @@ I am a recent graduate from Kolej Yayasan UEM, Malaysia and a current Cambridge 
 
 <h3> Experiences </h3>
 
-* Secondary School Student at SMJK Tinggi Cina Melaka
-  * Valedictorian
-  * Head Prefect
-  * Cadet leader and Division head in St John Ambulance Malaysia
-  * Vice President of English Society
-  * SPM 9A+2A
+<ul>
 
-* Tuition Teaching
-  * Part time tuition teacher at Brainergy Sdn Bhd
-  * Self Employed part time tuition teacher to secondary school students in STEM subjects
+<li>Secondary School Student at SMJK Tinggi Cina Melaka
+  <ul>
+    <li> Valedictorian </li>
+    <li> Head Prefect </li>
+    <li> Cadet leader and Division head in St John Ambulance Malaysia </li>
+    <li> Vice President of English Society </li>
+    <li> SPM 9A+2A </li>
+    </ul>
+</li>
 
-* A Levels Student at Kolej Yayasan UEM
-  * Academic Exco of Student Council
-  * President of Science and Maths Society
-  * Secretary of Christian Fellowship
-  * High Committee of main college events such as Induction Week and Cultural Performance Night
+<li>Tuition Teaching
+  <ul>
+    <li> Part time tuition teacher at Brainergy Sdn Bhd </li>
+    <li> Self Employed part time tuition teacher to secondary school students in STEM subjects </li>
+  </ul>
+</li>
 
+<li> A Levels Student at Kolej Yayasan UEM
+  <ul>
+  <li> Academic Exco of Student Council </li>
+  <li> President of Science and Maths Society </li>
+  <li> Secretary of Christian Fellowship </li>
+  <li> High Committee of main college events such as Induction Week and Cultural Performance Night </li>
+  </ul>
+</li>
 
+</ul>
 
 
 <div class = "newsletter-container">
