@@ -29,12 +29,12 @@ key: page-about
 <h1> Idealist Matthew <h1>
 
 <p align = "center">
-<img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
+<img class = "image image--l" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
 </p>
 
 <h3> Who Am I? </h3>
 
-> To be the Turning point in the lives of everyone I meet.
+<blockquote>To be the Turning point in the lives of everyone I meet. </blockquote>
 
 <p>
 What better way to get to know me than to know what I live by? I believe that by following this principle of mine, I can do my part in \
