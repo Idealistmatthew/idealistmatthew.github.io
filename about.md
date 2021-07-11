@@ -32,10 +32,13 @@ key: page-about
 <img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
 </p>
 
-<h3> Background </h3>
+<h3> Who Am I? </h3>
+
+> To be the Turning point in the lives of everyone I meet.
 
 <p>
-I am a recent graduate from Kolej Yayasan UEM, Malaysia and a current Cambridge Engineering Offer Holder. I am very interested in aerospace engineering and learning about the theoretical Sciences. My hobbies include doing extra learning on my varied interests on MITOpenCourseWare and playing strategic board games such as "Agricola" and "Istanbul".
+What better way to get to know me than to know what I live by? I believe that by following this principle of mine, I can do my part in \
+making the world a better place.
 </p>
 
 <h3> Experiences </h3>
