@@ -34,10 +34,10 @@ key: page-about
 
 <h3> Who Am I? </h3>
 
-<blockquote>To be the Turning point in the lives of everyone I meet. </blockquote>
+<h6> "To be the Turning point in the lives of everyone I meet." </h6>
 
 <p>
-What better way to get to know me than to know what I live by? I believe that by following this principle of mine, I can do my part in \
+What better way to get to know me than to know what I live by? I believe that by following this principle of mine, I can do my part in
 making the world a better place.
 </p>
 
