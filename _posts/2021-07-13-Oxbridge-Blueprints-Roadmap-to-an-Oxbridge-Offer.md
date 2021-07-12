@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Oxbridge Blueprints: Roadmap to an Oxbridge Offer
 tags: Oxbridge-Blueprints, Engineering
 article_header:
@@ -25,7 +26,7 @@ If you are using your AS level grades to apply, your **UMS score** must be very 
 
 The interview sets the direction of your Oxbridge Application, it is in your interest that its pointing in the right direction. Oxford typically offers 2 or more interviews. Cambridge, on the other hand offers two interviews, from two different colleges, if you interview in the UK, and only 1 interview if you interview overseas.
 
-### Railroad Switch One: Overseas Interview or Interview in the UK 🇬🇧
+### Railroad Switch One: Overseas Interview or Interview in the UK :gb:
 
 There are pros and cons for both options if you are in international student. Having two interviews allows you an opportunity to **make up** for any **blunders** you make in any one of them, just as the saying goes, "Don't put all of your eggs in one basket". On non-pandemic years, you are able to **visit the campus** and experience what its like to live there.
 
