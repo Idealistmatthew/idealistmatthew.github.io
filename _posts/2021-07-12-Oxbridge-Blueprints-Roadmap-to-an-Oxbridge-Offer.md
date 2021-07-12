@@ -47,18 +47,3 @@ The most important part about your application should be, **YOU**. While it is i
 ## Final Words 💬
 
 All in all, I don't mean to say that getting a Oxbridge offer should be the be all and end all of your application. Take your time in your application to **explore more about yourself** and your passion towards academia. And if you don't get your offer from Oxbridge, it doesn't mean that you are anyhow worse off than the other offer holders, hold your head up high and strive for success in your field and careers. There are many things in this blog post that warrant a more in-depth explanation, and I will have some follow up blog posts exploring them, so don't forget to **subscribe** to be notified of new blog posts 😂.
-
-<div class = "newsletter-container">
-  <h4 class = "newsletter-title">Idealist Matthew's Newsletter</h4>
-
-  <form style="border:1px solid #ccc;padding:3px;text-align:center;"
-  action="https://feedburner.google.com/fb/a/mailverify"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=idealistmatthewswebsite', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-    <p class = "newsletter-text">Enter your email address to subscribe  :</p>
-    <p><input class="newsletter-email" type="text" name="email" placeholder="name@example.com"/>
-    </p><input type="hidden" value="idealistmatthewswebsite" name="uri"/>
-    <input type="hidden" name="loc" value="en_US"/>
-    <input class ="newsletter-submit" type="submit" value="Subscribe" />
-  </form>
-</div>
