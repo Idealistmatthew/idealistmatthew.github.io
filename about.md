@@ -108,7 +108,7 @@ I believe that leaders have the honor of being of service to the people they lea
 
 <br />
 
-<h3> Programming &#x200D; </h3>
+<h3> Programming &#x1F4BB; </h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/python_program_pic.jpg" >
