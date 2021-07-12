@@ -47,9 +47,9 @@ making the world a better place. I hope that this blog will also contribute to t
 
 <h3> Interests </h3>
 
-<p>
+<h6>
 A glance at what I do during my spare time.
-</p>
+</h6>
 
 
 <br />
@@ -57,7 +57,7 @@ A glance at what I do during my spare time.
 <h4>Academic Exploration </h4>
 
 <p align = "center">
-<img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/Great_Dome_MIT.jpg" >
+<img class = "image image--lg" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/Great_Dome_MIT.jpg" >
 </p>
 
 
