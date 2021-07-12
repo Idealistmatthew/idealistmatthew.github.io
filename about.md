@@ -29,7 +29,7 @@ key: page-about
 <h1> Idealist Matthew <h1>
 
 <p align = "center">
-<img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
+<img class = "image image--xl" src = "/assets/images/aboutmepic.JPG">
 </p>
 
 <br />
