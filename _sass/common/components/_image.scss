@@ -6,7 +6,7 @@
   width: map-get($image, width);
 }
 .image--xl {
-  width: map-get($image, width-xl);
+  width: 1000px;
 }
 .image--lg {
   width: map-get($image, width-lg);
