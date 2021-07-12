@@ -43,7 +43,7 @@ making the world a better place. I hope that this blog will also contribute to t
 
 <br />
 
-<h2> Interests </h2>
+<h2> Interests &#x1F576; </h2>
 
 <h6>
 A glance at what I do during my spare time.
@@ -52,7 +52,7 @@ A glance at what I do during my spare time.
 
 <br />
 
-<h3>Academic Exploration </h3>
+<h3>Academic Exploration &#x1F4DA; </h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/MIT-OpenCourseware-Header.png" >
@@ -65,7 +65,7 @@ I usually spend my spare time reading academic textbooks in fields such as physi
 
 <br />
 
-<h3> Having Conversations </h3>
+<h3> Having Conversations &#x1F4AC; </h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/Clubhouse_pic.jpg" >
@@ -77,14 +77,14 @@ I make it a point to keep in touch with the people that matter in my life and I 
 
 <br />
 
-<h2> Skills </h2>
+<h2> Skills &#x1F6E0; </h2>
 
 <h6>
 Honed for the service of mankind.
 </h6>
 
 <br />
-<h3> Public Speaking </h3>
+<h3> Public Speaking &#x1F3A4;</h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/ESU_Public_Speaking.jpg" >
@@ -96,7 +96,7 @@ I have been trained as a storyteller in my primary school years. I tried to cont
 
 <br />
 
-<h3>Leadership and Problem Solving </h3>
+<h3>Leadership and Problem Solving &#x1F9E9;</h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/KY_Stuco.jpg" >
@@ -108,7 +108,7 @@ I believe that leaders have the honor of being of service to the people they lea
 
 <br />
 
-<h3> Programming </h3>
+<h3> Programming &#x1F468; </h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/python_program_pic.jpg" >
