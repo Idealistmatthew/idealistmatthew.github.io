@@ -28,7 +28,7 @@ The interview sets the direction of your Oxbridge Application, it is in your int
 
 ### Railroad Switch One: Overseas Interview or Interview in the UK :gb:
 
-There are pros and cons for both options if you are in international student. Having two interviews allows you an opportunity to **make up** for any **blunders** you make in any one of them, just as the saying goes, "Don't put all of your eggs in one basket". On non-pandemic years, you are able to **visit the campus** and experience what its like to live there.
+There are pros and cons for both options if you are an international student. Having two interviews allows you an opportunity to **make up** for any **blunders** you make in any one of them, just as the saying goes, "Don't put all of your eggs in one basket". On non-pandemic years, you are able to **visit the campus** and experience what its like to live there.
 
 However for the overseas interview, you will usually get a very **seasoned interviewer**. Their prompting will be slightly more instructive and they will be slightly more experienced in assessing your suitability to being in Cambridge.
 
