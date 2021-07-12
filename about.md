@@ -132,7 +132,7 @@ I am able to code in Python as well as HTML. I have competed in coding competiti
   <input type="hidden" name="notify_me" value="1"/>
   <input type="hidden" name="notify_them" value="1"/>
 
-  <label>Email</label><br />
+  <label>Enter your email here:</label><br />
   <input id="subscriber[email]" name="subscriber[email]" type="text" /><br />
   <input name="commit" type="submit" value="Subscribe" />
   </form>
