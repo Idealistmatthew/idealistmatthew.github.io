@@ -56,6 +56,11 @@ A glance at what I do during my spare time.
 
 <h4>Academic Exploration </h4>
 
+<p align = "center">
+<img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/Great_Dome_MIT.jpg" >
+</p>
+
+
 <p>
 I usually spend my spare time reading academic textbooks in fields such as physics, mathematics and engineering. I usually use the recommended textbooks in MIT Open Course Ware's Website and view the lectures being provided online. I make flash cards using Anki and internalize key concepts for future reference and perusal. I believe that constantly flexing my brain muscles will slowly but surely increase my capacity for problem solving.
 </p>
