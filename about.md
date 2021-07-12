@@ -57,7 +57,7 @@ A glance at what I do during my spare time.
 <h4>Academic Exploration </h4>
 
 <p align = "center">
-<img class = "image image--lg" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/Great_Dome_MIT.jpg" >
+<img class = "image image--lg" src = "https://www.ocw-openmatters.org/wp-content/uploads/2019/04/MIT-OpenCourseware-Header.png" >
 </p>
 
 
