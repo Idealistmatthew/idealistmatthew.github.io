@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Oxbridge Blueprints: Roadmap to an Oxbridge Offer
+title: Oxbridge Blueprints - Roadmap to an Oxbridge Offer
 tags: Oxbridge-Blueprints, Engineering
 article_header:
   type: cover
