@@ -57,7 +57,7 @@ A glance at what I do during my spare time.
 <h4>Academic Exploration </h4>
 
 <p align = "center">
-<img class = "image image--lg" src = "https://www.ocw-openmatters.org/wp-content/uploads/2019/04/MIT-OpenCourseware-Header.png" >
+<img class = "image image--lg" src = "/assets/images/MIT-OpenCourseware-Header.png" >
 </p>
 
 
@@ -70,7 +70,7 @@ I usually spend my spare time reading academic textbooks in fields such as physi
 <h4> Having Conversations </h4>
 
 <p align = "center">
-<img class = "image image--lg" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/Clubhouse_pic.jpg" >
+<img class = "image image--lg" src = "/assets/images/Clubhouse_pic.jpg" >
 </p>
 
 <p>
@@ -85,7 +85,7 @@ I make it a point to keep in touch with the people that matter in my life and I 
 <h4> Public Speaking </h4>
 
 <p align = "center">
-<img class = "image image--lg" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/ESU_Public_Speaking.jpg" >
+<img class = "image image--lg" src = "/assets/images/ESU_Public_Speaking.jpg" >
 </p>
 
 <p>
@@ -97,7 +97,7 @@ I have been trained as a storyteller in my primary school years. I tried to cont
 <h4>Leadership and Problem Solving </h4>
 
 <p align = "center">
-<img class = "image image--lg" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/KY_Stuco.jpg" >
+<img class = "image image--lg" src = "/assets/images/KY_Stuco.jpg" >
 </p>
 
 <p>
@@ -109,7 +109,7 @@ I believe that leaders have the honor of being of service to the people they lea
 <h4> Programming </h4>
 
 <p align = "center">
-<img class = "image image--lg" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/python_program_pic.jpg" >
+<img class = "image image--lg" src = "/assets/images/python_program_pic.jpg" >
 </p>
 
 <p>
