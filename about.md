@@ -32,9 +32,7 @@ key: page-about
 <img class = "image image--xl" src = "/assets/images/aboutmepic.JPG">
 </p>
 
-<br />
-
-<h3> Who Am I? </h3>
+<h2> Who Am I? </h2>
 
 <h6> "To be the Turning point in the lives of everyone I meet." </h6>
 
@@ -45,7 +43,7 @@ making the world a better place. I hope that this blog will also contribute to t
 
 <br />
 
-<h3> Interests </h3>
+<h2> Interests </h2>
 
 <h6>
 A glance at what I do during my spare time.
@@ -54,7 +52,7 @@ A glance at what I do during my spare time.
 
 <br />
 
-<h4>Academic Exploration </h4>
+<h3>Academic Exploration </h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/MIT-OpenCourseware-Header.png" >
@@ -67,7 +65,7 @@ I usually spend my spare time reading academic textbooks in fields such as physi
 
 <br />
 
-<h4> Having Conversations </h4>
+<h3> Having Conversations </h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/Clubhouse_pic.jpg" >
@@ -79,10 +77,14 @@ I make it a point to keep in touch with the people that matter in my life and I 
 
 <br />
 
-<h3> Skills </h3>
+<h2> Skills </h2>
+
+<h6>
+Honed for the service of mankind.
+</h6>
 
 <br />
-<h4> Public Speaking </h4>
+<h3> Public Speaking </h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/ESU_Public_Speaking.jpg" >
@@ -94,7 +96,7 @@ I have been trained as a storyteller in my primary school years. I tried to cont
 
 <br />
 
-<h4>Leadership and Problem Solving </h4>
+<h3>Leadership and Problem Solving </h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/KY_Stuco.jpg" >
@@ -106,7 +108,7 @@ I believe that leaders have the honor of being of service to the people they lea
 
 <br />
 
-<h4> Programming </h4>
+<h3> Programming </h3>
 
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/python_program_pic.jpg" >
