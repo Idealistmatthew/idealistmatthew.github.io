@@ -32,6 +32,8 @@ key: page-about
 <img class = "image image--xl" src = "https://raw.githubusercontent.com/Idealistmatthew/idealistmatthew.github.io/master/assets/images/aboutmepic.JPG">
 </p>
 
+<br />
+
 <h3> Who Am I? </h3>
 
 <h6> "To be the Turning point in the lives of everyone I meet." </h6>
@@ -41,11 +43,16 @@ What better way to get to know me than to know what I live by? I believe that by
 making the world a better place. I hope that this blog will also contribute to this goal of mine.
 </p>
 
+<br />
+
 <h3> Interests </h3>
 
 <p>
 A glance at what I do during my spare time.
 </p>
+
+
+<br />
 
 <h4>Academic Exploration </h4>
 
@@ -53,19 +60,26 @@ A glance at what I do during my spare time.
 I usually spend my spare time reading academic textbooks in fields such as physics, mathematics and engineering. I usually use the recommended textbooks in MIT Open Course Ware's Website and view the lectures being provided online. I make flash cards using Anki and internalize key concepts for future reference and perusal. I believe that constantly flexing my brain muscles will slowly but surely increase my capacity for problem solving.
 </p>
 
+<br />
+
 <h4> Having Conversations </h4>
 
 <p>
 I make it a point to keep in touch with the people that matter in my life and I take the initiative to spend some time with them to catch up and maintain the friendship. Every friendship like it or not requires work to maintain, and I'm someone who puts in the work. I also join Clubhouse sessions from time to time to discuss different aspects of the human experience and other interesting topics.
 </p>
 
+<br />
+
 <h3> Skills </h3>
 
+<br />
 <h4> Public Speaking </h4>
 
 <p>
 I have been trained as a storyteller in my primary school years. I tried to continue this by pioneering a public speaking team in my secondary school. I independently signed up for a National Public Speaking Competition by ESU Malaysia in 2019 and was the first runner up. I am able to convey information in an effective manner.
 </p>
+
+<br />
 
 <h4>Leadership and Problem Solving </h4>
 
@@ -73,13 +87,15 @@ I have been trained as a storyteller in my primary school years. I tried to cont
 I believe that leaders have the honor of being of service to the people they lead. My fundamental values in leadership align with the values of Simon Sinek. I've been constantly undertaking leadership positions ever since my secondary school years, with some notable examples such as leading the schools prefectorial board as well as leading a first aid division of St John Ambulance Cadets mostly without the guidance of an adult officer due to some unfortunate complications. I have continued my training in leadership in college by heading the science and maths society and also being an academic exco in the college's student council.
 </p>
 
+<br />
+
 <h4> Programming </h4>
 
 <p>
 I am able to code in Python as well as HTML. I have competed in coding competitions such as the Shoppee Code League 2020, and weekly competitions in Atcoder and Codeforces. I have also coded out this very website (with the help of a theme). I am interested in improving my coding skills and participating in more Competitive Programming sessions in the future.
 </p>
 
-
+<br />
 
 
 <div class = "newsletter-container">
