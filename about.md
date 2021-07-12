@@ -125,13 +125,15 @@ I am able to code in Python as well as HTML. I have competed in coding competiti
   <h4 class = "newsletter-title">Idealist Matthew's Newsletter</h4>
 
   <form style="border:1px solid #ccc;padding:3px;text-align:center;"
-  action="https://feedburner.google.com/fb/a/mailverify"
+  action="https://app.nouri.sh/campaigns/7332/subscribe"
   method="post" target="popupwindow"
   onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=idealistmatthewswebsite', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-    <p class = "newsletter-text">Enter your email address to subscribe  :</p>
-    <p><input class="newsletter-email" type="text" name="email" placeholder="name@example.com"/>
-    </p><input type="hidden" value="idealistmatthewswebsite" name="uri"/>
-    <input type="hidden" name="loc" value="en_US"/>
-    <input class ="newsletter-submit" type="submit" value="Subscribe" />
+  <input type="hidden" name="redirect_to" value="https://idealistmatthew.github.io/"/>
+  <input type="hidden" name="notify_me" value="1"/>
+  <input type="hidden" name="notify_them" value="1"/>
+
+  <label>Email</label><br />
+  <input id="subscriber[email]" name="subscriber[email]" type="text" /><br />
+  <input name="commit" type="submit" value="Subscribe" />
   </form>
 </div>
