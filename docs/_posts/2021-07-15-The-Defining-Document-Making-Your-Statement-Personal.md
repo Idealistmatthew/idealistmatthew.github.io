@@ -1,8 +1,7 @@
 ---
 layout: article
 title: The Defining Document: Making Your Statement Personal
-key: 20210713
-tags: [Oxbridge Blueprints]
+tags: Oxbridge Blueprints
 ---
 
 Feeling stuck not knowing what else to add in your personal statement? Feeling the pressure to make everything as perfect as possible? Or do you feel so lost that you haven't even begun to write a single sentence? Writing a personal statement can feel like an arduous and stressful task, especially when your university application is on the line, but here's a few pointers that can hopefully make it easier.
@@ -32,6 +31,7 @@ If you have the time for it I definitely recommend doing online courses related 
 If you're applying to universities that heavily value academics, it might be beneficial to include more extracurriculars that are related to your field of study. Whenever you mention an extracurricular activity make sure to explain what skill you've gained from it and how it makes you a good fit for studying in the universities you're applying to.
 
 # Finishing Touches and Feedback
+Now you'
 
 ## Should I let others take a look at my personal statement?
 Definitely yes. It always helps to have a second opinion on your personal statement to ensure that your personal statement is conveying what you intend to convey. However, too many cooks👨‍🍳 spoil the broth, don't let different viewpoints confuse you and think before accepting someone's feedback on your personal statement.
