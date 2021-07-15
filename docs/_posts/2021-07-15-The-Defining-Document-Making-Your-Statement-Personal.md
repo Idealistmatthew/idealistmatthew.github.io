@@ -1,7 +1,8 @@
 ---
 layout: article
-title: The Defining Document: Making Your Statement Personal
-tags: Oxbridge Blueprints
+title: The Defining Document - Making Your Statement Personal
+key: 20210713
+tags: [Oxbridge Blueprints]
 ---
 
 Feeling stuck not knowing what else to add in your personal statement? Feeling the pressure to make everything as perfect as possible? Or do you feel so lost that you haven't even begun to write a single sentence? Writing a personal statement can feel like an arduous and stressful task, especially when your university application is on the line, but here's a few pointers that can hopefully make it easier.
