@@ -3,6 +3,10 @@ layout: article
 title: Oxbridge Blueprints - The STEM Oxbridge Personal Statement
 key: 20210713
 tags: [Oxbridge Blueprints]
+article_header:
+  type: cover
+  image:
+    src: /assets/images/Oxbridge_Blueprints/Personal_statement/Personal_statement_bigpic.jpg
 ---
 
 A STEM Oxbridge Personal Statement has a very different focus compared to other personal statements. By the end of this post I hope to demystify the process on creating a personal statement that can aid your application to Oxbridge. There will be three websites from Cambridge and Oxford that I will be referencing throughout this post. The links to them will be at the end of the post.
