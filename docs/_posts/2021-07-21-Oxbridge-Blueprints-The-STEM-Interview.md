@@ -15,7 +15,7 @@ The Oxbridge interviews are one of the main criteria for selecting successful ap
 The interview is an academically focused one. It matters less of who you are and how you present yourself and what matters most is how you think. The interview is meant to simulate a supervision in Cambridge or a tutorial in Oxford so they can ascertain whether or not you are suited for this way of learning.
 
 # Structure of the Interview
-The generic interview structure is as follows. It starts with a warm up question or two to help with your nerves. Then your interviewer might ask you a question in your personal statement, followed by a few technical questions comprising of problems that are related to your field.
+The interview usually lasts around 30 minutes. It starts with a warm up question or two to help with your nerves. Then your interviewer might ask you a question in your personal statement, followed by a few technical questions comprising of problems that are related to your field.
 
 ## Warm Up Questions
 They usually are simple questions that should be obvious to you as an applicant, such as "Why did you choose Engineering?" or "Why Choose Pembroke College". If you don't feel confident in giving answers to these questions in a surefire way, be sure to have some prepared answers to these questions so that you won't spend unnecessary time thinking and fretting about the answers. An important thing to remember when answering these questions is to show your passion and enthusiasm when answering them. If the passion and enthusiasm shown in your personal statement isn't shown during your interview it might cause your interviewer to doubt how genuine your personal statement is.
@@ -89,37 +89,79 @@ Here are a few predictions of topics for Engineering Applicants.
 
 ### Mechanics
 1. Rotational Mechanics
+
 Moment of Inertia and Rotational Kinetic Energy
 
 2. Change of Reference Frame
+
 Changing from the inertial reference frame to the Center of Mass reference frame
 
 3. Constraint Equations
+
 Constraint equations for pulley systems
 
-4.
+4. Projectile motion with Linear or Quadratic Drag
+
+5. Momentum and Introductory Fluid Mechanics
+
+Momentum and the Flow of Mass. [Example](https://phys.libretexts.org/Bookshelves/Classical_Mechanics/Book%3A_Classical_Mechanics_(Dourmashkin)/12%3A_Momentum_and_the_Flow_of_Mass/12.01%3A_Introduction_to_Momentum_and_the_Flow_of_Mass)
 
 ### Electricity and Magnetism
+1. Differential Equations in analyzing a circuit
 
+RC Circuits, LC Circuits and LRC Circuits
+
+2. Advanced Network Theory
+
+Theverin and Norton Equivalent Networks
 
 ### Mathematical Techniques
 1. Using Integration in Solving Physics Problems
-[Here]( https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/06%3A_Applications_of_Integration/6.5%3A_Physical_Applications_of_Integration ) are examples of this technique being put to use
 
+[Here]( https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/06%3A_Applications_of_Integration/6.5%3A_Physical_Applications_of_Integration ) are examples of this technique being put to use.
+
+A reminder that it is NOT necessary to go through all these topics but it is recommended that you read up on the topics that bear the greatest relevance to the topics you mention in your personal statement and try some practice questions. Even if you forget the relevant equations, the interviewer will provide you with them or prompt you to help you derive them.
 
 ## Preparing for Typical Questions
-
+A typical question for most STEM interviews are graphs questions. A good idea would be to study the CAIE Further Maths Pure 1 Chapter 2 Rational Functions chapter to learn more about them. The chapter however, does not provide all the necessary skills for you to plot any graph that your interviewer might give you, therefore I will post a guide on Graph Sketching sometime later in this blog, so do stay tuned.
 
 # During the Interview
+There are many things to keep in mind during an interview to make the most of it. Here are a few of them that I found helpful.
 
 ## Silence in Moderation
+A goal you would want to have is to have as little prompting given as possible. Of course, if you need prompting do not stubbornly deprive yourself of it. Being silent for long periods of time usually is followed by an interviewer giving a prompt. If you do not require a prompt, remember to inform the interviewer of whatever you are thinking about. Even if your interviewer decides to prompt you, at least he knows exactly what you are thinking about so that he may give the ideal prompt to guide you towards the right train of thought. However, do not speak mindlessly, it is perfectly fine to ask for 5 seconds or so after being given a question to think about the question before speaking.
 
-## First Principles Mindset
+## Tackliing Complexity
+There are many times a question seems too complicated. The key to dealing with such a situation is to deconstruct the problem and think from first principles.
+
+### Deconstructing the problem
+Imagine you were given a complicated function to graph. You can deconstruct the problem by finding smaller and easier problems to solve. For example, "What is the minimum points and maximum points in this graph, if any?" and "What are the asymptodes in the graph?". Persistently solving these subproblems will eventually lead you to the final solution without too much of a lag in answering the question. The ability to deconstruct a problem is also an acquired skill so do put it into practice.
+
+### First Principles Mindset
+Thinking from first principles means thinking from the basic ideas and axioms that you are definitely sure of, even if they seem obvious. For example, when given a Physics problem. You can always go back to the conservation laws:
+
+* Conservation of Mass
+* Conservation of Momentum
+* Conservation of Energy
+* Conservation of Angular Momentum
+
+There are first principles to every field and every subject, identifying them before starting the interview might also be a good idea.
 
 ## Visualization is Key
+Sometimes problems include objects on ramps or balls bound to strings wrapped around rods. The more complicated the mechanical or electrical system, the harder it is to analyze the problem without any visual aid. Therefore it is always in your best interests to draw out diagrams for physical systems that are mentioned in the question. Even for algorithmic and mathematical questions, using appropriate representation in a diagram can do wonders in clarifying a problem. You should never lose focus when drawing a diagram for a question, often times you can have Eureka moments when drawing these diagrams. Don't hesitate to draw diagrams as big as possible. Small diagrams tend to clutter important aspects of the problem and confuse you.
 
-## Clarification Questions
-
-## Prompting and asking for Prompts
+## Clarification Questions Vs Blatant Prompt Requests
+When you really can make no headway in a problem, you might have the tendency to blatantly ask the interviewer for a prompt. I recommend a different approach. You should ask specific questions when requesting prompting. This shows that you have analyzed the problem and understand what part of the question you lack the knowledge and insight to proceed, which is a skill in itself. As we proceed on our academic journey, we will on a regular basis, encounter questions even more difficult that those presented during the Oxbridge interview, without the help of an interviewer to prompt you and give you a straightforward answer. Learning this skill will also benefit you in those future occasions.
 
 # After the Interview
+After the interview has ended, usually your interviewer will ask you if you have any questions for him. I recommend asking him about anything you found interesting during the interview or even about the interviewer's research. (Usually you will be given the interviewers name before the interview so you can always check up his contributions to the field).
+
+# Final Thoughts
+The interview is a suitability test, where interviewers are tasked to determine whether or not you are suitable for the Oxbridge learning style. Therefore the best way to prepare is to learn the Oxbridge way (even though its not exclusive to Oxbridge of course). Be active in seeking out knowledge, take time and effort to solve complex problems. A good way to keep motivated in this learning process is to have a group of applicants discussing perplexing problems together. I hope that this elaborate guide has helped you to prepare for your Oxbridge interview.
+
+# Mock Interview Offer
+Hey there, thanks for reading to the end of this post. I am offering free mock interviews for engineering applicants (I can also try for Phyiscs, Maths and Computer Science applicants as well but I can't assure the quality of it though) from now till 15th September 2021. Here is a guide to getting a free mock interview.
+
+1. Subscribe to the newsletter
+2. Share this post in social media (Facebook, Instagram or Twitter while including a link to this website) and take a screenshot
+3. Contact me on [my telegram](https://t.me/idealistmatthew) by sending the screenshot of the post to discuss the details of the arrangements for the mock interview.
