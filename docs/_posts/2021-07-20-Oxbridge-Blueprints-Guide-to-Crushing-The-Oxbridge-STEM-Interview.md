@@ -92,35 +92,35 @@ For engineering especially, there isn't too large of a scope of things that the 
 Here are a few predictions of topics for Engineering Applicants.
 
 ### Mechanics ⚙️
-1. **Rotational Mechanics**
+* **Rotational Mechanics**
 
 Moment of Inertia and Rotational Kinetic Energy
 
-2. **Change of Reference Frame**
+* **Change of Reference Frame**
 
 Changing from the inertial reference frame to the Center of Mass reference frame
 
-3. **Constraint Equations**
+* **Constraint Equations**
 
 Constraint equations for pulley systems
 
-4. **Projectile motion with Linear or Quadratic Drag**
+* **Projectile motion with Linear or Quadratic Drag**
 
-5. **Momentum and Introductory Fluid Mechanics**
+* **Momentum and Introductory Fluid Mechanics**
 
 Momentum and the Flow of Mass. [Example](https://phys.libretexts.org/Bookshelves/Classical_Mechanics/Book%3A_Classical_Mechanics_(Dourmashkin)/12%3A_Momentum_and_the_Flow_of_Mass/12.01%3A_Introduction_to_Momentum_and_the_Flow_of_Mass)
 
 ### Electricity and Magnetism ⚡
-1. **Differential Equations in analyzing a circuit**
+* **Differential Equations in analyzing a circuit**
 
 RC Circuits, LC Circuits and RLC Circuits
 
-2. **Advanced Network Theory**
+* **Advanced Network Theory**
 
 Theverin and Norton Equivalent Networks
 
 ### Mathematical Techniques 🧮
-1. **Using Integration in Solving Physics Problems**
+* **Using Integration in Solving Physics Problems**
 
 [Here]( https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/06%3A_Applications_of_Integration/6.5%3A_Physical_Applications_of_Integration ) are examples of this technique being put to use.
 
