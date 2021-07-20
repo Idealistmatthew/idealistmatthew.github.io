@@ -40,7 +40,7 @@ Interview questions often are a bit different from questions your see in textboo
 
 ### Physics and Engineering ⚙️
 
-1. [I Want to Study Engineering Website](https://i-want-to-study-engineering.org/)
+1. **[I Want to Study Engineering Website](https://i-want-to-study-engineering.org/)**
 
 This website contains around 200 interview level problems alongside with hints and video solutions to them. Although some explanations are not that clear but it is still a valuable practice resource to have.
 
@@ -88,35 +88,35 @@ For engineering especially, there isn't too large of a scope of things that the 
 Here are a few predictions of topics for Engineering Applicants.
 
 ### Mechanics ⚙️
-1. Rotational Mechanics
+1. **Rotational Mechanics**
 
 Moment of Inertia and Rotational Kinetic Energy
 
-2. Change of Reference Frame
+2. **Change of Reference Frame**
 
 Changing from the inertial reference frame to the Center of Mass reference frame
 
-3. Constraint Equations
+3. **Constraint Equations**
 
 Constraint equations for pulley systems
 
-4. Projectile motion with Linear or Quadratic Drag
+4. **Projectile motion with Linear or Quadratic Drag**
 
-5. Momentum and Introductory Fluid Mechanics
+5. **Momentum and Introductory Fluid Mechanics**
 
 Momentum and the Flow of Mass. [Example](https://phys.libretexts.org/Bookshelves/Classical_Mechanics/Book%3A_Classical_Mechanics_(Dourmashkin)/12%3A_Momentum_and_the_Flow_of_Mass/12.01%3A_Introduction_to_Momentum_and_the_Flow_of_Mass)
 
 ### Electricity and Magnetism ⚡
-1. Differential Equations in analyzing a circuit
+1. **Differential Equations in analyzing a circuit**
 
 RC Circuits, LC Circuits and RLC Circuits
 
-2. Advanced Network Theory
+2. **Advanced Network Theory**
 
 Theverin and Norton Equivalent Networks
 
 ### Mathematical Techniques 🧮
-1. Using Integration in Solving Physics Problems
+1. **Using Integration in Solving Physics Problems**
 
 [Here]( https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/06%3A_Applications_of_Integration/6.5%3A_Physical_Applications_of_Integration ) are examples of this technique being put to use.
 
@@ -162,6 +162,6 @@ The interview is a suitability test, where interviewers are tasked to determine 
 # Mock Interview Offer 😇
 Hey there, thanks for reading to the end of this post. I am offering **free mock interviews** for **engineering** applicants (I can also give mock interviews for Phyiscs, Maths and Computer Science applicants as well but I can't assure the quality of it though) from now till **10th September 2021**. Here is a guide to getting a free mock interview:
 
-1. Subscribe to the newsletter
-2. Share this post in social media (Facebook, Instagram or Twitter while including a link to this website) and take a screenshot
+1. Subscribe to the newsletter.
+2. Share this post in social media (Facebook, Instagram or Twitter while including a link to this website) and take a screenshot.s
 3. Contact me on [my telegram](https://t.me/idealistmatthew) by sending the screenshot of the post to discuss the details of the arrangements for the mock interview.
