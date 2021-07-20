@@ -40,48 +40,48 @@ Interview questions often are a bit different from questions your see in textboo
 
 ### Physics and Engineering ⚙️
 
-1. **[I Want to Study Engineering Website](https://i-want-to-study-engineering.org/)**
+* **[I Want to Study Engineering Website](https://i-want-to-study-engineering.org/)**
 
 This website contains around 200 interview level problems alongside with hints and video solutions to them. Although some explanations are not that clear but it is still a valuable practice resource to have.
 
-2. **[Isaac Physics](https://isaacphysics.org/)**
+* **[Isaac Physics](https://isaacphysics.org/)**
 
 Even though this website is notorious for being slightly annoying for troubles with submitting answers, it is nonetheless a good question bank for interview preparation needs. I recommend trying all problems at Level 5 and 6. Another good set of questions in this section is the [Extraordinary Problems Section](https://isaacphysics.org/extraordinary_problems).
 
-3. **[PAT Past Papers](https://www.physics.ox.ac.uk/study/undergraduates/how-apply/physics-aptitude-test-pat/pat-past-papers)**
+* **[PAT Past Papers](https://www.physics.ox.ac.uk/study/undergraduates/how-apply/physics-aptitude-test-pat/pat-past-papers)**
 
 Not all questions in the PAT are suitable as interview practice, but for the recent years, the questions that have a higher mark allocation have been found to be good practice for interviews.
 
-4. **[British Physics Olympiad](https://www.bpho.org.uk/past-papers/round-1)**
+* **[British Physics Olympiad](https://www.bpho.org.uk/past-papers/round-1)**
 
-5. **[IPHO Problems and Solutions](https://physprob.com/)**
+* **[IPHO Problems and Solutions](https://physprob.com/)**
 
-6. **[Professor Povey's Perplexing Problems](https://www.amazon.com/Professor-Poveys-Perplexing-Problems-Pre-university/dp/1780747756#:~:text=Professor%20Povey's%20Perplexing%20Problems%20is,problems%20in%20physics%20and%20maths.)**
+* **[Professor Povey's Perplexing Problems](https://www.amazon.com/Professor-Poveys-Perplexing-Problems-Pre-university/dp/1780747756#:~:text=Professor%20Povey's%20Perplexing%20Problems%20is,problems%20in%20physics%20and%20maths.)**
 
 This book is a good book with interesting problems and good explanations behind them. However do selectively do problems that are related to your field. This can be done by doing questions only from relevant chapters.
 
 ### Mathematics and Computer Science 🧮
 Side Note: I'm not that sure about computer science but I assume that their interviews are also highly mathematical.
 
-1. **[STEP Questions Database](https://stepdatabase.maths.org/database/index.html)**
+* **[STEP Questions Database](https://stepdatabase.maths.org/database/index.html)**
 
 A compilation of all the STEP questions. This site allows you to search for STEP past questions according to topic.
 
-2. **[STEP Foundation Modules](https://maths.org/step/assignments)**
+* **[STEP Foundation Modules](https://maths.org/step/assignments)**
 
 This site contains modules of questions to train you to be able to solve interview questions and STEP questions. The modules introduce the concept using warm-up questions and slowly crank up the difficulty so you aren't overwhelmed.
 
-3. **[Project Euler](https://projecteuler.net/)**
+* **[Project Euler](https://projecteuler.net/)**
 
 If you have some form of programming skills, this website is packed to the brim with mathematical computing challenges. I believe that these challenges will train you with the problem solving skills needed for the interview.
 
-4. **[Art of Problem Solving Resources](https://artofproblemsolving.com/resources)**
+* **[Art of Problem Solving Resources](https://artofproblemsolving.com/resources)**
 
 This website has a ton of mathematical resources for your perusal and are the furthest thing away from your typical math problem.
 
-5. **[Underground Mathematics](https://undergroundmathematics.org/)**
+* **[Underground Mathematics](https://undergroundmathematics.org/)**
 
-6. **[NRICH Maths](https://nrich.maths.org/post-16)**
+* **[NRICH Maths](https://nrich.maths.org/post-16)**
 
 ## Mock Interviews 🧪
 The best way to prepare for an exam is to do past papers and have mock exams. Similarly, the best way to prepare for an interview is to have mock interviews. I recommend doing **at least 5** mock interviews before your actual interview. This can be done with your subject teachers, seniors who have gone through the interview themselves, or people from companies and societies that offer mock interviews. (I am offering free Engineering mock interviews until early September 2021, for details read till the end of this post)
