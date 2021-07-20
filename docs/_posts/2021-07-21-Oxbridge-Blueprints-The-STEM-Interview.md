@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Oxbridge Blueprints - The STEM Interview
+title: Oxbridge Blueprints - Guide to Crushing the Oxbridge STEM Interview
 key: 20210721
 tags: [Oxbridge Blueprints]
 article_header:
@@ -28,15 +28,17 @@ Here is an example for Engineering or Physics. If your personal statement explai
 Here is an example for a Mathematics applicant. If your personal statement contains a passage expressing your astonishment at the beauty of Green's Theorem or the Divergence theorem. It might be a good idea go through the proofs of those theories and some intuitive explanations and visualizations behind those theories.
 
 ## Technical Questions
-In this part of the interview, you will be asked questions related to your field to study. Another constraint on the questions for Cambridge applicants is that they will be somewhat related to the modules you have listed in your COPA application(essentially what chapters you have covered so far in your A Levels syllabus). Oxford applicants will also receive questions related to their syllabus but they will make assumptions based on the less specific UCAS application that does not include the modules that you have covered thus far. There are many things you can do to prepare for this part of the interview.
+In this part of the interview, you will be asked questions related to your field to study. Another constraint on the questions for Cambridge applicants is that they will be somewhat related to the modules you have listed in your COPA application(essentially what chapters you have covered so far in your A Levels syllabus). Oxford applicants will also receive questions related to their syllabus but they will make assumptions based on the less specific UCAS application that does not include the modules that you have covered thus far.
 
-### Internalize the A Level syllabus
+# Preparing for the Interview
+
+## Internalize the A Level syllabus
 Mastering the A Level syllabus is the bare minimum requirement to do well in the interview. Especially for STEM subjects where concepts are built upon each other, having strong fundamentals will really help your experience during the interview. A way to ensure you have completely grasped all the required concepts is to have a checklist based off the syllabus content and check off everything that you feel confident in explaining and applying in a problem solving question.
 
-### Practice Interview Questions
+## Practice Interview Questions
 Interview questions often are a bit different from questions your see in textbooks or normal past year papers. They require a bit more thinking outside the box and often requires you to use your existing knowledge as a stepping stone to deduce new information required to solve the problem. Here are a few sources that provide you with some questions that train those problem solving muscles required for the Oxbridge Interview.
 
-#### Physics and Engineering
+### Physics and Engineering
 
 1. [I Want to Study Engineering Website](https://i-want-to-study-engineering.org/)
 
@@ -58,7 +60,7 @@ Not all questions in the PAT are suitable as interview practice, but for the rec
 
 This book is a good book with interesting problems and good explanations behind them. However do selectively do problems that are related to your field. This can be done by doing questions only from relevant chapters.
 
-#### Mathematics and Computer Science
+### Mathematics and Computer Science
 Side Note: I'm not that sure about computer science but I assume that their interviews are also highly mathematical.
 
 1. [STEP Questions Database](https://stepdatabase.maths.org/database/index.html)
@@ -77,10 +79,35 @@ If you have some form of programming skills, this website is packed to the brim 
 
 This website has a ton of mathematical resources for your perusal and are the furthest thing away from your typical math problem.
 
-### Mock Interviews
+## Mock Interviews
+The best way to prepare for an exam is to do past papers and have mock exams. Similarly, the best way to prepare for an interview is to have mock interviews. I recommend doing at least 5 mock interviews before your actual interview. This can be done with your subject teachers, seniors who have gone through the interview themselves, or people from companies and societies that offer mock interviews. (I am offering free Engineering mock interviews until mid September 2021, for details read till the end of this post)
+
+## Advanced Learning
+For engineering especially, there isn't too large of a scope of things that the interviewer can ask due to the constriction of the A Levels Syllabus. Of course, they can extend ideas from the A Levels syllabus, but they can only go so far. Hence you can predict some advanced topics that might come out in the interview ahead of time and learn them. Obviously I advise against blindly learning the concepts without truly understanding it and regurgitating formulae during the interview itself. The point of the interview is to see how you think not what you know after all. But I wouldn't deny that being exposed to these advanced topics would definitely help you. The process of learning these topics will also train your problem solving skills which is really a case of killing two birds with one stone.
+
+Here are a few predictions of topics for Engineering Applicants.
+
+### Mechanics
+1. Rotational Mechanics
+Moment of Inertia and Rotational Kinetic Energy
+
+2. Change of Reference Frame
+Changing from the inertial reference frame to the Center of Mass reference frame
+
+3. Constraint Equations
+Constraint equations for pulley systems
+
+4.
+
+### Electricity and Magnetism
 
 
-### Advanced Learning
+### Mathematical Techniques
+1. Using Integration in Solving Physics Problems
+[Here]( https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/06%3A_Applications_of_Integration/6.5%3A_Physical_Applications_of_Integration ) are examples of this technique being put to use
+
+
+## Preparing for Typical Questions
 
 
 # During the Interview
