@@ -167,5 +167,5 @@ The interview is a suitability test, where interviewers are tasked to determine 
 Hey there, thanks for reading to the end of this post. I am offering **free mock interviews** for **engineering** applicants (I can also give mock interviews for Phyiscs, Maths and Computer Science applicants as well but I can't assure the quality of it though) from now till **10th September 2021**. Here is a guide to getting a free mock interview:
 
 1. Subscribe to the newsletter.
-2. Share this post in social media (Facebook, Instagram or Twitter while including a link to this website) and take a screenshot.s
+2. Share this post in social media (Facebook, Instagram or Twitter while including a link to this website) and take a screenshot.
 3. Contact me on [my telegram](https://t.me/idealistmatthew) by sending the screenshot of the post to discuss the details of the arrangements for the mock interview.
