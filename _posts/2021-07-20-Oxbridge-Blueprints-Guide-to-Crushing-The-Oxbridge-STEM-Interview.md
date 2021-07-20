@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Oxbridge Blueprints - Guide to Crushing the Oxbridge STEM Interview
-key: 20210721
+key: 20210720
 tags: [Oxbridge Blueprints]
 article_header:
   type: cover
