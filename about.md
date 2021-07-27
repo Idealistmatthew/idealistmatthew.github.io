@@ -32,8 +32,9 @@ key: page-about
 <img class = "image image--xl" src = "/assets/images/aboutmepic.JPG">
 </p>
 
-<video controls="controls" src="/assets/gifs/Welcome.gif">
-</video>
+<p align = "center">
+<img class = "image image--lg" src="/assets/gifs/Welcome.gif">
+</p>
 
 <h2> Who Am I? &#x1F440; </h2>
 
