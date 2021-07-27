@@ -32,6 +32,9 @@ key: page-about
 <img class = "image image--xl" src = "/assets/images/aboutmepic.JPG">
 </p>
 
+<video controls="controls" src="/assets/gifs/Welcome.gif">
+</video>
+
 <h2> Who Am I? &#x1F440; </h2>
 
 <h6> "To be the Turning point in the lives of everyone I meet." </h6>
