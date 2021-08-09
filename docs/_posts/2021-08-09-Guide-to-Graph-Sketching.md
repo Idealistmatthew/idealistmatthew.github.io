@@ -13,18 +13,18 @@ Do you want to understand why the atoms that make up the universe, act the way t
 
 This post will briefly cover some basic concepts on graph sketching that you may feel free to skip forward if you are already acquainted with, and then move on to some more advanced concepts that might expand your graph sketching toolkit.
 
-# Functions
+# Functions 🖨️
 <p align = "center">
 <img class = "image image--lg" src = "/assets/gifs/Graph_Sketching/FunctionMachine_ManimCE_v0.9.0.gif" >
 </p>
 Functions are machines that **take inputs**, **changes them** based on a set of instructions (its mathematical expression), and **spits out an output**. The range of inputs that a function takes in is called the **domain** while the range of outputs possible for the machine is called the **codomain**. Graphs are a way to visualize this process. Where, depending on the convention used, the $$x$$-values represent the inputs and the $$y$$-values represents the outputs, ultimately giving you a curve.
 
-# Important Points
+# Important Points ⚠️
 Not all points are created equal. Some characterize a graph very strongly, leaving behind much desired information about the process the graph is describing. One example of such points are intercepts. **Intercepts** can be found where the curve meets the axes and they signal the value of the input or the output when the other is zero.
 
 Another great example would be local maximum and minimum points or **turning points**. They can be found when the derivative of the function (how much the output increases in value when the input increases in value) is zero. To differentiate between maximum and minimum points, the second derivative (how much the derivative increases in value when the input increases in value) is computed, and it's a maximum point when the second derivative is less than zero and vice versa. These points are called local maxima and minima because there can be points that exceed the maxima or fall behind the minima when looking at the graph as a whole.
 
-# Transformations
+# Transformations 📅
 Often the situations we're trying to model with our graphs change, we have to then transform our original graphs to accommodate these changes. Here are a few examples of transformations.
 
 ### Translation
@@ -45,7 +45,7 @@ Similarly, you would take the output of the input $$ax$$ and bring it to replace
 </p>
 When you find the reciprocal of the entire function, it's important to notice how values change depending on what they initially were. The closer to zero a fraction was, the larger it ended up being and vice versa for values of $$|f(x)|$$ greater than $$1$$. Points that had outputs of magnitude $$1$$ stayed stationary, the $$x$$-intercepts commit the grave sin of division by zero and were cursed to be undefined, shown as **asymptotes**(explained later in the post) in the resulting graph. You can apply the same logic to perform the transformation of $$f(\frac{1}{x})$$ , the difference is that you'll be swapping the treatments of inputs and outputs in this case.
 
-# Identifying Trends
+# Identifying Trends 🔍
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/Graph_Sketching/Google_trend.jpg" >
 </p>
@@ -70,7 +70,7 @@ An odd function gives the negative of the output when you give in the negative o
 <img class = "image image--lg" src = "/assets/gifs/Graph_Sketching/OddFunc_ManimCE_v0.9.0.gif" >
 </p>
 
-# Decomposing and Composing a Graph
+# Decomposing and Composing a Graph 🧱
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/Graph_Sketching/lego_construct.jpg" >
 </p>
@@ -82,7 +82,7 @@ Let's say that a function you are trying to sketch is a **product of two functio
 <img class = "image image--lg" src = "/assets/images/Graph_Sketching/EnvelopeGraph_ManimCE_v0.9.0.png" >
 </p>
 
-# Time to Sketch the Talk
+# Time to Sketch the Talk ✏️
 <p align = "center">
 <img class = "image image--lg" src = "/assets/images/Graph_Sketching/atomic.jpg" >
 </p>
@@ -100,10 +100,10 @@ From this we can actually ascertain the regions where the graph is positive (whe
 <img class = "image image--lg" src = "/assets/images/Graph_Sketching/LJGraph_ManimCE_v0.9.0.png" >
 </p>
 
-# Extracting Insight
+# Extracting Insight 👁️
 
 Now we try to interpret what the graph actually means. Let's provide some context. Put simply, the input for the graph is the distance a particle is from another one that is fixed in position. The output is the **potential** of the particle. We can think of this potential like how we treat gravitational potential, the higher we are, the more potential we have and the more energy we have as we go "downhill". That's why we tend to move towards lower potential and achieve stability. This is the same and from the graph, we observe a **minimum point** where the particle is stable. Any closer towards the fixed particle we get repelled, any further we get attracted back to the same position. And since particles need to keep a safe distance from one another. This gives us insight into intermolecular forces and how matter occupies space, where they don't all attract each other so much they collapse into a black hole, nor do they repel each other so much that they are super far away from each other.
 
-# Conclusion
+# Conclusion ✨
 
 There is **no one-size-fits-all way** to sketch graphs. Some graphs, as with most mathematics, require some ingenuity in finding their solutions. This post merely scratches the surface of this complex topic but provides a good starting point for curious souls like you to venture further. I hope that with this newfound knowledge, you may challenge harder graph sketches or apply them to a variety of practical situations and problems. Don't forget to [subscribe](#mc_embed_signup) for more cool content that inspires you to **learn more about this wonderful world around us**.
