@@ -41,7 +41,7 @@ Similarly, you would take the output of the input $$ax$$ and bring it to replace
 
 ### Reciprocal
 <p align = "center">
-<img class = "image image--lg" src = "/assets/gifs/Graph_Sketching/ReciGraph1_Graph_ManimCE_v0.9.0.gif" >
+<img class = "image image--lg" src = "/assets/gifs/Graph_Sketching/ReciGraph1_ManimCE_v0.9.0.gif" >
 </p>
 When you find the reciprocal of the entire function, it's important to notice how values change depending on what they initially were. The closer to zero a fraction was, the larger it ended up being and vice versa for values of $$|f(x)|$$ greater than $$1$$. Points that had outputs of magnitude $$1$$ stayed stationary, the $$x$$-intercepts commit the grave sin of division by zero and were cursed to be undefined, shown as asymptotes in the resulting graph. You can apply the same logic to perform the transformation of $$f(\frac{1}{x})$$ , the difference is that you'll be swapping the treatments of inputs and outputs in this case.
 
@@ -102,4 +102,4 @@ Now we try to interpret what the graph actually means. Let's provide some contex
 
 # Conclusion
 
-There is no one-size-fits-all way to sketch graphs. Some graphs, as with most mathematics, require some ingenuity in finding their solutions. This post merely scratches the surface of this complex topic but provides a good starting point for curious souls like you to venture further. I hope that with this newfound knowledge, you may challenge harder graph sketches or apply them to a variety of practical situations and problems. Don't forget to [subscribe](#mc_embed_signup) for more cool content that inspires you to learn more about this wonderful world around us. 
+There is no one-size-fits-all way to sketch graphs. Some graphs, as with most mathematics, require some ingenuity in finding their solutions. This post merely scratches the surface of this complex topic but provides a good starting point for curious souls like you to venture further. I hope that with this newfound knowledge, you may challenge harder graph sketches or apply them to a variety of practical situations and problems. Don't forget to [subscribe](#mc_embed_signup) for more cool content that inspires you to learn more about this wonderful world around us.
