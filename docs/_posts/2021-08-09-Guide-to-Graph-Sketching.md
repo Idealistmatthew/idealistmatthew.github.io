@@ -61,10 +61,14 @@ Sometimes, the direct evaluation of a limit gives you a "sickly number" like $$\
 Mirrors aren't only useful for mirror selfies, "mirrors" can also help in giving you crucial information when sketching a graph, in particular graphs of even and odd functions. An even function is a function that gives the same output when you give in the negative of an input, or in other words $$f(-x) = f(x)$$. You can find the shape of such a graph to the left of the y-axis by treating the $$y$$-axis like a mirror and reflecting what's on the right side.
 
 <p align = "center">
-<img class = "image image--lg" src = "/assets/gifs/Graph_Sketching/EvenFunc_Graph_ManimCE_v0.9.0.gif" >
+<img class = "image image--lg" src = "/assets/gifs/Graph_Sketching/EvenFunc_ManimCE_v0.9.0.gif" >
 </p>
 
 An odd function gives the negative of the output when you give in the negative of an input, in other words $$f(-x) = -f(x)$$. The right-hand side of such a graph can be found by doing two reflections on the shape of the graph where $$x>0$$, the first of which is the same as what we did for even functions. The second step is to treat the negative $$x$$-axis as a mirror and reflect again.
+
+<p align = "center">
+<img class = "image image--lg" src = "/assets/gifs/Graph_Sketching/OddFunc_ManimCE_v0.9.0.gif" >
+</p>
 
 # Decomposing and Composing a Graph
 <p align = "center">
