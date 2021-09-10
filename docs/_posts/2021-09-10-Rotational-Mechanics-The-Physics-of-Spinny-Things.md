@@ -21,7 +21,12 @@ To have a better understanding of the material presented in this post, it is rec
 # The Perfect Analogue
 As with any analysis of natural phenomena, it is useful to figure out useful definitions for quantities relevant to the discussion of it. In the case of rotational motion, you will find many analogous quantities to those of translational motion as they both describe physical motion. Even the equations that govern them can be astonishingly similar, keeping this fact in mind can really help you get used to the subject and achieve excellence in it.
 
-#Kinematics
+# Kinematics
+
+<p align = "center">
+<img class = "image image--lg" src = "/assets/images/RotMech/spinterms.png" >
+</p>
+
 Whenever an object is spinning, we usually denote an axis of rotation which is the "imaginary line" that the objects spins around. Whilst distance is a measure of how far we move, the angle of rotation $$\theta$$ measures how far we turn.
 
 Similarly, angular velocity $$\omega$$ which obviously parallels velocity tells us how fast something is turning while angular acceleration $$\alpha$$ tells us how fast something is increasing in angular velocity. This can be expressed mathematically using derivatives where $$\omega = \frac{d\theta}{dt}$$ and $$\alpha = \frac{d\omega}{dt} = \frac{d^2\theta}{dt^2}$$.
@@ -41,7 +46,7 @@ $$ \vec{L} = \vec{r}\times \vec{p} = m \vec{r} \times \vec{v} $$
 
 A useful fact about angular momentum is that in a closed system, this quantity remains constant. This means that if u have a bunch of objects rotating, and nothing outside of these bunch of objects interferes with them, the sum of their "insistence of spinning" will remain the same.
 
-This is why you spin faster when you pull your heavy water bottles inwards, since $r$, decreases, and $$L$$ is constant, the magnitude of $$v$$ must increase, causing you to spin faster.
+This is why you spin faster when you pull your heavy water bottles inwards, since $$r$$, decreases, and $$L$$ is constant, the magnitude of $$v$$ must increase, causing you to spin faster.
 
 (Side note) If you are familiar with cross products, notice that the angular momentum vector is perpendicular to both the position vector $$\vec{r}$$ and the velocity vector $$\vec{v}$$, pointing out of the plane of the orbit. You can use the right hand rule to determine whether it points out of the plane or inwards. The visualization of the angular momentum vector will immensely help the understanding of further topics involving rotational mechanics.
 
