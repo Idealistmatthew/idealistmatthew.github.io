@@ -33,8 +33,11 @@ Similarly, **angular velocity** $$\omega$$ which obviously parallels velocity te
 
 ## Kinematic Equations 🏃🏽
 Seeing how $$\theta$$,$$\omega$$ and $$\alpha$$ are related in the same ways the displacement $$x$$, velocity $$v$$ and acceleration $$a$$ are related, the equations derived from this relation are the same as well.
+
 $$ \omega = \omega_0 + \alpha t $$
+
 $$ \theta = \theta_0 + \omega_0 t + \frac{1}{2} \alpha t^2 $$
+
 When the **angular acceleration is constant**, the "suvat" equations in translational kinematics hold true for its rotational counterpart.
 
 ## Angular Momentum 📐
@@ -50,7 +53,7 @@ This is why you spin faster when you pull your heavy water bottles inwards, sinc
 
 (Side note) If you are familiar with cross products, notice that the angular momentum vector is perpendicular to both the position vector $$\vec{r}$$ and the velocity vector $$\vec{v}$$, pointing out of the plane of the orbit. You can use the right hand rule to determine whether it points out of the plane or inwards. The visualization of the angular momentum vector will immensely help the understanding of further topics involving rotational mechanics.
 
-#Dynamics ⚽
+# Dynamics ⚽
 
 ## Center of Mass ⚖️
 
