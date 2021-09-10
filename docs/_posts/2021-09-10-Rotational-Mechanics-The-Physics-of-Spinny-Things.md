@@ -53,6 +53,11 @@ This is why you spin faster when you pull your heavy water bottles inwards, sinc
 #Dynamics
 
 ## Center of Mass
+
+<p align = "center">
+<img class = "image image--lg" src = "/assets/images/RotMech/centerofmass.png" >
+</p>
+
 Ever tried balancing a pencil on the tip of your finger? You will find that there is a point where your finger has to be above, no matter the orientation of your pencil, for the pencil to balance. Same goes for hanging an object on a pin to a wall, the pin will always be directly above a point called the center of gravity or the center of mass. The center of mass is essentially a point where you can treat the object's mass to be concentrated at.
 
 The center of mass is found by summing up the product of the masses and the distances the masses are from a designated point (self-chosen origin) and dividing that product by the total mass of the system. This can be illustrated by the following expression:
@@ -78,6 +83,10 @@ $$L  = I \vec{\omega}$$
 ## Moments
 
 Have you ever noticed that when you try to open a door by pushing it near the hinge, it is way harder to open compared to when you push the door far away from the hinge. This can be explained by understanding the concept of moments. The moment is the turning effect of the force. The moment caused by a force can be calculated by taking the cross product of the perpendicular distance from a point to the line of action of the force (sometimes called the lever arm) with the force vector.
+
+<p align = "center">
+<img class = "image image--lg" src = "/assets/images/RotMech/torquepic.png" >
+</p>
 
 $$\vec{\tau} = \vec{r}\times \vec{F} $$
 
